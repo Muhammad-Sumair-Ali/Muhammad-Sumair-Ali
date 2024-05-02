@@ -5,7 +5,7 @@ I'm a frontend developer from Pakistan, currently residing in Karachi. I'm passi
 - 🔭 I'm currently honing my skills in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React.js, and Firebase.
 - 🌱 I'm continuously learning and exploring new technologies to stay updated with the latest trends in web development.
 - 💼 I'm open to collaborating on interesting web development projects, especially those involving React.js or frontend design.
-- 📫 You can reach me via email at [your@email.com](mailto:Muhammadsumair224@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+- 📫 You can reach me via email at [Muhammadsumair224@gmail.com](mailto:Muhammadsumair224@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-sumair-b60a91301)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a big fan of outdoor adventures and love exploring new hiking trails in my free time.
 
