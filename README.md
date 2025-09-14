@@ -92,7 +92,7 @@ I'm a **Full Stack Developer** with **2+ years of experience** based in **Karach
 ## 🏆 Professional Achievements
 
 - **2+ Years** hands-on experience in full-stack development  
-- Built & deployed **15+ production-ready web applications**  
+- Built & deployed **8+ production-ready web applications**  
 - Developed an **enterprise-grade multivendor marketplace** with advanced analytics  
 - Created an **AI-powered social media platform** with real-time features  
 - Implemented **secure authentication systems** (JWT, OAuth, MFA)  
