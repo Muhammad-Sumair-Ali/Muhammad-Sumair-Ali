@@ -34,7 +34,6 @@ I'm a **Full Stack Developer** with **2+ years of experience** based in **Karach
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Apollo Server](https://img.shields.io/badge/-Apollo_Server-311C87?style=flat&logo=apollo-graphql&logoColor=white)
 
 ### **Databases:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -50,7 +49,6 @@ I'm a **Full Stack Developer** with **2+ years of experience** based in **Karach
 
 ### **AI & Integration Tools:**
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Langchain](https://img.shields.io/badge/-Langchain-121212?style=flat&logo=chainlink&logoColor=white)
 
 ### **Development Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
