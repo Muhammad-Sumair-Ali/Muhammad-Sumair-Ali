@@ -4,19 +4,6 @@ I'm a **Full Stack Developer** with **2+ years of experience** based in **Karach
 
 ---
 
-## 🔥 About Me:
-- 🚀 **2+ years** of professional experience in **Full Stack Development** with expertise in **MERN stack**.
-- 💻 Currently mastering **Next.js 14, TypeScript, GraphQL, PostgreSQL**, and **AI integrations** to build next-generation applications.
-- 🎯 Specialized in developing **enterprise-grade MERN stack applications** with advanced authentication, real-time updates, and cloud infrastructure.
-- 🛠️ Strong expertise in **performance optimization, modern UI/UX patterns, RESTful & GraphQL APIs**, and **database design**.
-- 🤖 Actively integrating **AI/ML technologies** into web applications for enhanced user experiences.
-- 💡 Open to collaborating on innovative projects, startup ventures, and freelance opportunities.
-- 🎨 Passionate about **designing intuitive, accessible, and visually stunning user interfaces**.
-- 🏆 Love tackling **complex architectural challenges** and optimizing application performance at scale.
-- 📩 Reach me via email at [Muhammadsumair224@gmail.com](mailto:Muhammadsumair224@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-sumair-b60a91301).
-
----
-
 ## 🛠 Tech Stack & Tools:
 
 ### **Frontend Development:**
@@ -55,6 +42,11 @@ I'm a **Full Stack Developer** with **2+ years of experience** based in **Karach
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
+
+## Reach Me
+- 📩 Reach me via email at [Muhammadsumair224@gmail.com](mailto:Muhammadsumair224@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-sumair-b60a91301).
 
 ---
 ## 📊 GitHub Analytics:
